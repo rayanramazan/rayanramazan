@@ -44,7 +44,6 @@
 📈 my github stats
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=onedark" alt="rayanramazan" /> </p>
 <img src="https://streak-stats.demolab.com?user=rayanramazan&theme=onedark&date_format=%5BY%20%5DM%20j" alt="rayanramazan" />
-<img src="https://raw.githubusercontent.com/rayanramazan/github-stats-transparent/output/generated/languages.svg" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanramazan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
