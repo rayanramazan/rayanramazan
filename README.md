@@ -39,6 +39,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 </div>
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=gotham" alt="rayanramazan" />
+  
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayankrd&show_icons=true&locale=en&layout=compact" alt="rayankrd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayankrd&show_icons=true&locale=en" alt="rayankrd" /></p>
