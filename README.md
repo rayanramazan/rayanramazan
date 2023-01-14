@@ -44,7 +44,8 @@
 <br>
 
 📈 my github stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=onedark" alt="rayanramazan" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=onedark" alt="rayanramazan" /> </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayanramazan&theme=onedark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
   
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayankrd&show_icons=true&locale=en&layout=compact" alt="rayankrd" /></p>
