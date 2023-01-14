@@ -45,5 +45,5 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=onedark" alt="rayanramazan" /> </p>
 <img src="https://streak-stats.demolab.com?user=rayanramazan&theme=onedark&date_format=%5BY%20%5DM%20j" alt="rayanramazan" />
 <img src="https://raw.githubusercontent.com/rayanramazan/github-stats-transparent/output/generated/languages.svg" />  
-<img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanramazan)](https://github.com/anuraghazra/github-readme-stats)
  
