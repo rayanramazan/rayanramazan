@@ -45,5 +45,5 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rayanramazan&show_icons=true&theme=onedark" alt="rayanramazan" /> </p>
 <img src="https://streak-stats.demolab.com?user=rayanramazan&theme=onedark&date_format=%5BY%20%5DM%20j" alt="rayanramazan" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanramazan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanramazan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
  
