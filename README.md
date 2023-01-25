@@ -17,6 +17,11 @@
 <a href="https://instagram.com/rayan.ramazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayan.ramazan" height="30" width="40" /></a>
 </p>
 
+<div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=github)](https://github.com/rayanramazan)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayanramazan&theme=github)](https://github.com/rayanramazan)
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 1rem;">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
