@@ -18,7 +18,7 @@
 </p>
 
 <div>
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=github)](https://github.com/rayanramazan)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=github">
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayanramazan&theme=github)](https://github.com/rayanramazan)
 </div>
 
