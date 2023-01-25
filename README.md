@@ -18,8 +18,8 @@
 </p>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=onedark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayanramazan&theme=onedark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayanramazan&theme=github" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
