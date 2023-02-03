@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayan Ramazan</h1>
 <h3 align="center">Web & App Developer</h3>
 
-[<img src="https://drive.google.com/file/d/1iV_TtcDgsc5PjDLm31scsf45FBAICTpC/view?usp=sharing"/>](https://drive.google.com/file/d/1iV_TtcDgsc5PjDLm31scsf45FBAICTpC/view?usp=sharing)
+<img src="profile.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayankrd&label=Profile%20views&color=0e75b6&style=flat" alt="rayankrd" /> </p>
 
