@@ -11,14 +11,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/htmlgamekurd](https://www.facebook.com/rayan.kordesh.5/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayan.ramazan)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rayan-krd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-krd" height="30" width="40" /></a>
-<a href="https://fb.com/rayan ramazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan ramazan" height="30" width="40" /></a>
-<a href="https://instagram.com/rayan.ramazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayan.ramazan" height="30" width="40" /></a>
-</p>
-
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanramazan&theme=github" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayanramazan&theme=github" />
