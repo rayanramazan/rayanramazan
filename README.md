@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayankrd&label=Profile%20views&color=0e75b6&style=flat" alt="rayankrd" /> </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rayanramazan" alt="rayanramazan" /> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayanramazan&theme=onedark)](https://github.com/rayanramazan/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
