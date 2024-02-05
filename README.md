@@ -1,10 +1,4 @@
-<h1 align="center">
- Hi 👋, I'm Rayan Ramazan
-</h1>
-<h3 align="center">Web & App Developer</h3>
-
-<img src="profile.jpg"/>
-
+<img src="banner.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayankrd&label=Profile%20views&color=0e75b6&style=flat" alt="rayankrd" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayanramazan&theme=onedark)](https://github.com/rayanramazan/github-profile-trophy)
