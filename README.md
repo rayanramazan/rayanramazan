@@ -3,7 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rayanramazan&theme=onedark)](https://github.com/rayanramazan/github-profile-trophy)
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/htmlgamekurd](https://www.facebook.com/rayan.kordesh.5/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayan.ramazan)
 
